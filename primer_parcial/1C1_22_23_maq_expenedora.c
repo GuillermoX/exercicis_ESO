@@ -1,6 +1,7 @@
 // ------------------------------------------------------------------
 // --        EXERCICI 5 EXAMEN 1a CONVOCATORIA 2022-2023           --
 // --        Autor: Guillermo Pinteño			           --
+// --        Corrección: NO			                   --
 // ------------------------------------------------------------------
 
 /* Es vol programar un manegador per a controlar un dispositiu format per deu
